@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:chiheb="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".Container">
+    <item android:id="@+id/action_qr" android:title="@string/action_qr" android:icon="@drawable/qrcode"
+        android:orderInCategory="100" chiheb:showAsAction="always" />
+
+</menu>

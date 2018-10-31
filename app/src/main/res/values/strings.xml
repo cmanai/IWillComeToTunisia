@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">I Will Come To Tunisia</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_qr">QRCode</string>
+    <string name="title_activity_details">Details</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+</resources>
